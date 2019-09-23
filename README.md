@@ -15,7 +15,7 @@ A list of great open source courses I plan on taking throughout my academic care
 ## The Table
 | Course | Source | Duration | Frequency | Progress | Completed | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Learn SQL](https://www.codecademy.com/learn/learn-sql) | Codecademy | 7 Hours | Self - Paced | 📚 | 🌗 |
+| [Learn SQL](https://www.codecademy.com/learn/learn-sql) | Codecademy | 7 Hours | Self - Paced | 🥇 | 🌕 |
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) | Khan Academy |  5 Hours | Self - Paced | 🛑 | 🌑 |
 | [Machine Learning](https://coursera.org/learn/machine-learning) | Coursera | 56 Hours | New Courses Every Week | 🛑 | 🌑 |
 | [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | Udacity | 10 Weeks | New Lesson Every Week | 📚 | 🌑 |
